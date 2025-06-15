@@ -65,7 +65,7 @@ android {
 
 dependencies {
 
-    implementation 'com.github.cheddarswallet:hd-wallet-kit-android:a74b51f'
+    implementation 'com.github.cheddarswallet:hd-wallet-kit-android:9012fb918f'
 
     implementation 'org.bouncycastle:bcpkix-jdk15on:1.70'
 
